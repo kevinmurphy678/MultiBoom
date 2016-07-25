@@ -1,0 +1,47 @@
+End User License Agreement (EULA)
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS BEFORE USING THIS PRODUCT.
+
+THIS IS A LEGAL AGREEMENT BETWEEN YOU AND NATHAN IYER (Rama). 
+
+IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU SHOULD NOT USE THIS PRODUCT. 
+
+BY PURCHASING, DOWNLOADING, COPYING, OR OTHERWISE USING THE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND CONDITIONS, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM. 
+
+IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, YOU SHOULD NOT USE THIS PRODUCT.
+
+Simple Description:
+
+You can use or modify this product according to your need for your game. But you are not permitted to market, distribute, sell or sub-license the product in any format.
+
+You don't own the contents. The Victory Plugin is only licensed to you. All contents are still copyright and owned by Nathan Iyer (Rama).
+
+~~~
+
+Display of Product in Any Media Format
+
+Whenever you display the plugin contents in Unreal Engine 4, within the editor or runtime game environment, via any media format (video, picture, or otherwise), you must reference "Rama" as the original author of the plugin and include his website, http://www.ue4code.com
+
+"Original Author" is specified because you are free to modify the plugin code to support your project's specific needs.
+
+When displaying a modified version of the plugin in any media format you must still reference Rama as the original author and include a link to his website, http://www.ue4code.com.
+
+~~~
+
+Royalty Free
+
+The plugin may be used royalty-free in any product utilizing Unreal Engine 4.
+
+~~~
+
+End User License Terms:
+
+1. SINGLE COPY media LICENSE: This media is copyrighted and protected by law and international treaty. You may download this media through a web browser onto a single computer for use in the creation of video game products, unless specifically licensed to do otherwise by Nathan Iyer. This is a license, not a transfer of title, and you may not (a) create derivative works based on this media for retail sale or distribution by any means other than as provided by this agreement;(b) transfer this media or the documentation in whole or in part to another person without Nathan Iyer's permission;(c) remove any copyright or other proprietary notices by Nathan Iyer; (g) transfer this media to another person. You agree to prevent any copying of this media that you download for your use from the Nathan Iyer's web site.
+
+3. OWNERSHIP: This product and all of its content is proprietary material of Nathan Iyer and may not be copied, reproduced, published, uploaded, posted, transmitted, or distributed in any way, without Nathan Iyer's prior written permission.
+
+4. TERMINATION OF THIS LICENSE: Nathan Iyer may terminate this license at any time if you are in breach of the terms and conditions of use. Upon such termination you must and agree to immediately destroy all copies of this media and all of its accompanying documentation.
+
+5. DISCLAIMER AND WARRANTY: Nathan Iyer provides the products related to this agreement "AS IS" without warranty of any kind. You assume total responsibility and risk for your use of this product.
+
+6. CHOICE OF LAW: This agreement will be governed by the laws of the State of Florida, U.S.A., excluding its conflict of law provisions. Unless otherwise agreed in writing, all disputes relating to this Agreement shall be subject to final and binding arbitration in Cape Coral, with the losing party paying all costs of arbitration.
